@@ -1,0 +1,4 @@
+name: AntiX-Ray
+main: nl.knokko.xray.AntiXRay
+version: 1.0
+load: startup
